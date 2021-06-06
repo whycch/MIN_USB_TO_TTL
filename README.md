@@ -23,3 +23,8 @@
 	  只需要焊接其中一个即可，需要VCC输出5V焊接5V的0欧电阻，需要3.3V焊接3.3V的。
 	
 	
+			开源链接
+	1.github:https://github.com/whycch/MIN_USB_TO_TTL  国内下载速度较慢
+	2.gitee码云:https://gitee.com/whyXiaoYu/MIN_USB_TO_TTL  国内下载速度快
+	
+	
